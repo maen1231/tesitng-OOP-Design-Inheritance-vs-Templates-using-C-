@@ -12,3 +12,4 @@ Generic tests for a size of 1000000: 3073.33
 
 My conclusion: 
 As you can see based on my data pool we have seen generic tests prefom around 10% faster over OO tests which may not seem like much but when speaking for billions of bytes worth of data this 10% could be the difference between days.# tesitng-OOP-Design-Inheritance-vs-Templates-using-C-
+# tesitng-OOP-Design-Inheritance-vs-Templates-using-C-
