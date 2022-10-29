@@ -1,0 +1,18 @@
+# ninja log v5
+1	4178	6740721794080677	CMakeFiles/OOVsTemplates.dir/main.cpp.obj	a14369943fdb7755
+27	2459	6886179535261682	build.ninja	4bf13969110f570f
+17	1569	6740722505312791	CMakeFiles/OOVsTemplates.dir/OOInt.cpp.obj	3f6f689b01469cc9
+12	771	6740722497261650	CMakeFiles/OOVsTemplates.dir/IComparable.cpp.obj	fdad543096953449
+6	1564	6740722505714922	CMakeFiles/OOVsTemplates.dir/OOStr.cpp.obj	b66fe1ef79552886
+1569	2370	6740722514146996	OOVsTemplates.exe	21619d032829fd9d
+11	189	6886179605777767	CMakeFiles/OOVsTemplates.dir/IComparable.cpp.obj	5e0a0002e71eca96
+18	589	6886179609797695	CMakeFiles/OOVsTemplates.dir/OOStr.cpp.obj	466c97b7fd4ae9f1
+28	604	6886179609958222	CMakeFiles/OOVsTemplates.dir/OOInt.cpp.obj	14b4e3bcbbfccca
+0	1345	6886179617347687	CMakeFiles/OOVsTemplates.dir/main.cpp.obj	598b37a4d16a21e2
+1345	1658	6886179620470706	OOVsTemplates.exe	ac3ea87e5b6c6d0a
+3	312	6886181703462324	CMakeFiles/OOVsTemplates.dir/OOInt.cpp.obj	14b4e3bcbbfccca
+313	627	6886181706552891	OOVsTemplates.exe	ac3ea87e5b6c6d0a
+2	1078	6886188117469741	CMakeFiles/OOVsTemplates.dir/main.cpp.obj	598b37a4d16a21e2
+1078	1374	6886188120400955	OOVsTemplates.exe	ac3ea87e5b6c6d0a
+5	1270	6887657638690967	CMakeFiles/OOVsTemplates.dir/main.cpp.obj	598b37a4d16a21e2
+1271	1827	6887657644234474	OOVsTemplates.exe	ac3ea87e5b6c6d0a

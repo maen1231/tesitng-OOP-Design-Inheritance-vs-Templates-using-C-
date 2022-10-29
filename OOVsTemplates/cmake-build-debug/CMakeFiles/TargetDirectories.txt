@@ -1,0 +1,3 @@
+C:/Users/marashdehm2/Desktop/CSC 402/OOVsTemplates/OOVsTemplates/cmake-build-debug/CMakeFiles/OOVsTemplates.dir
+C:/Users/marashdehm2/Desktop/CSC 402/OOVsTemplates/OOVsTemplates/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marashdehm2/Desktop/CSC 402/OOVsTemplates/OOVsTemplates/cmake-build-debug/CMakeFiles/rebuild_cache.dir
